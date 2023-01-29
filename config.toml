@@ -1,0 +1,21 @@
+baseURL = 'https://nami404.github.io/'
+languageCode = 'zh-CN'
+title = "Nami's Blog"
+theme = "papermod"
+
+[params.profileMode]
+enabled = true
+title = "Nami's Blog"
+subtitle = "Nami's detial"
+imageUrl = "https://avatars.githubusercontent.com/u/48767563?s=400&u=015707bdc22e3ee2497e44c101eae27be32ea8cb&v=4"
+imageTitle = "Nami"
+imageWidth = 120
+imageHeight = 120
+
+[[params.profileMode.buttons]]
+name = "Post"
+url = "/post"
+
+[[params.profileMode.buttons]]
+name = "Github"
+url = "https://github.com/nami404"
